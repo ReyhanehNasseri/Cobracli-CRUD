@@ -1,6 +1,4 @@
-Here’s a README template you can use for your CRUD project in Go using Cobra CLI:
 
----
 
 # CRUD Application in Go with Cobra CLI
 
